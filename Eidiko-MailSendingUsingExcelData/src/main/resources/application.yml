@@ -1,0 +1,12 @@
+spring:
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: satya123.eidiko@gmail.com
+    password: xewbhtteondsdfyo
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
