@@ -10,3 +10,22 @@ spring:
           auth: true
           starttls:
             enable: true
+
+# these are configurations for send mails through outlook instaed of gmail
+#outlook is also like gmail,outlook used in camapanies
+#spring:
+#  mail:
+#    host: smtp.office365.com
+#    #host: smtp-mail.outlook.com
+#   
+#    port: 587
+##    username: outlook_f16e04de0b2fc63e@outlook.com
+#    username: satya123.eidiko@outlook.com
+#    password: brhbhsofqfrzcsbv
+#    #password: Annavaram@123
+#    properties:
+#      mail:
+#        smtp:
+#          auth: true
+#          starttls:
+#            enable: true

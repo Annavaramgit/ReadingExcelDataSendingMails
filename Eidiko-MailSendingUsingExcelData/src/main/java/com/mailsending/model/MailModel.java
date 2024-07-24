@@ -12,6 +12,7 @@ import lombok.NoArgsConstructor;
 @Component 
 public class MailModel {
 
+	private String to;
 	private String subject;
 	private String body;
 	
